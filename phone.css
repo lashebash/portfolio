@@ -1,0 +1,46 @@
+/* home */
+#home{
+    height: 820px;
+}
+/* navbar */
+.navbar ul{
+    flex-wrap: wrap; 
+    justify-content: center;
+   }
+
+
+/* Headings */
+.heading{
+font-size: 2rem;
+
+}
+/* about */
+#pic{
+flex-direction: column;  
+ align-items: center; 
+}
+ #pic img{
+width: 300px;
+height: 175px;
+} 
+ #intro h2{
+text-align: center;
+padding: 10px;
+font-size: 2rem;
+} 
+/* contacts */
+.input{
+ width: 80%;   
+}
+#msg{
+width:70%;
+}
+#send{
+width: 20%;
+}
+/* portfolio */
+.gallery img{
+    width:250px;
+    height: 150px;
+    margin: 10px;
+}
